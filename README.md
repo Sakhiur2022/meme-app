@@ -29,6 +29,7 @@ This is an app that shows memes from reddit!!!
   ```bash
   python meme.py
   ```
-
+## Screenshot
+<img src ="https://i.imgur.com/DoIviku.png" width = "400" alt = "screenshot"/>
 
   
