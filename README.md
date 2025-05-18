@@ -7,15 +7,25 @@ This is an app that shows memes from reddit!!!
 - Future: Show current weather
 
 ## How to run
-- create a python __v__irtual **env**ironment using venv module(-m) named .venv
-`python venv .venv`
+- create a python **v**irtual **env**ironment using venv module(-m) named .venv
+  ```bash
+  python venv .venv  
 - **c**hange **d**irectory to .venv
-`cd .venv/`
--Activate virtual environment using source
-`source bin/activate`
--Now install flask, a python web framework using pip
-`pip install flask`
+  ```bash
+  cd .venv/
+- Activate virtual environment using source
+  ```bash
+  source bin/activate
+- Now install flask, a python web framework using pip
+  ```bash
+  pip install flask
 - Now go to previous directory
-`cd ..`
--Finally, run the app
-`python meme.py`
+  ```bash
+  cd ..
+- Finally, run the app
+  ```bash
+  python meme.py
+  ```
+
+
+  
