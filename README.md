@@ -19,6 +19,9 @@ This is an app that shows memes from reddit!!!
 - Now install flask, a python web framework using pip
   ```bash
   pip install flask
+- Afterwards, install requests for memes, using pip
+  ```bash
+  pip install requests
 - Now go to previous directory
   ```bash
   cd ..
